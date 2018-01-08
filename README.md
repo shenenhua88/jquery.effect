@@ -1,6 +1,11 @@
 # jquery.effect.js
 
 /*自定义函数库@DragonShen###2017/12/30*/
+
+
+
+
+'
 $(function(){
 	
 	/***
