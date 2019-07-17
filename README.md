@@ -3,7 +3,7 @@
 然后根据里面的不同函数库去调用即可
 
 ## 例如
-`
+
 $(function(){
 	/*函数调用库*/
 	//$(this).isCopy();
@@ -32,4 +32,4 @@ $(function(){
 	//$(".qqpiao").changeLeft();
 	
 })
-`
+
